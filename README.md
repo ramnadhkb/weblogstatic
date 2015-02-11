@@ -1,0 +1,2 @@
+# weblogstatic
+weblogstatic
